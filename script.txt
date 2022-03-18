@@ -1,0 +1,3 @@
+python Snowball.py parameters.cfg train.txt seeds_positive.txt seeds_negative.txt 0.1 0.1
+python Snowball.py parameters.cfg train.txt seeds_positive.txt seeds_negative.txt 0.7 0.7
+python Snowball.py parameters.cfg train.txt seeds_positive.txt seeds_negative.txt 0.6 0.6

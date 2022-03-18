@@ -1,0 +1,44 @@
+
+crash;recession
+accident;snarl
+crowd;fear
+loss;sorrow
+cholesterol;disease
+stress;breakouts
+law;redistribution
+Fog;irritation
+rainfall;landslide
+lightning;surges
+wine;headache
+conflict;destruction
+Germs;disease
+refugees;disease
+winds;cancellations
+Fog;disorientation
+protests;revolution
+viruses;illness
+rain;food
+necessity;Entrepreneurship
+Suicide;death
+stress;divorce
+ball;noise
+malfunctions;delays
+earthquake;blackout
+Cardiovascular disease;morbidity
+Dizziness;sinus pressure
+crowd;fear
+confrontation;commotion
+reduction;relaxation
+wind;delays
+drum;sound
+earthquake;landslide
+blasts;fire
+stress;breakouts
+mentality;war
+infection;irritation
+snow;spill
+
+
+seed1.1 在seed1.0的基础上，从样本前1000 和后1000中随机采样了20个种子，添加到种子库中，共38个种子 
+
+参数 0.5 0.5
